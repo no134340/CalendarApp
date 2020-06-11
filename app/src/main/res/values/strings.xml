@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CalendarApp</string>
+    <string name="tip_pregleda">Izaberite tip pregleda</string>
+    <string name="godina">Godina</string>
+    <string name="mesec">Mesec</string>
+    <string name="dan">Dan</string>
+    <string name="year">2020</string>
+    <string name="januar">JANUAR</string>
+    <string name="februar">FEBRUAR</string>
+    <string name="mart">MART</string>
+    <string name="april">APRIL</string>
+    <string name="maj">MAJ</string>
+    <string name="jun">JUN</string>
+    <string name="jul">JUL</string>
+    <string name="avgust">AVGUST</string>
+    <string name="septembar">SEPTEMBAR</string>
+    <string name="oktobar">OKTOBAR</string>
+    <string name="novembar">NOVEMBAR</string>
+    <string name="decembar">DECEMBAR</string>
+    <string name="unos">Unesite ime događaja…</string>
+    <string name="prazna_lista">Nema događaja!</string>
+    <string name="prazan_unos">Morate uneti ime događaja!</string>
+    <string name="vreme_od">Vreme od:</string>
+    <string name="podsetnik">Podsetnik:</string>
+    <string name="alert_dialog_poruka">Šta želite da uradite s ovim događajem?</string>
+    <string name="uredi_dogadjaj">UREDI DOGAĐAJ</string>
+    <string name="obrisi_dogadjaj">Obriši događaj</string>
+    <string name="lokacija">Lokacija:</string>
+    <string name="ok">OK</string>
+    <string name="unos_lokacija">Unesite lokaciju...</string>
+    <string name="prazan_unos_lokacija">Morate uneti lokaciju!</string>
+    <string name="prognoza_greska">Vremenska prognoza za lokaciju nije dostupna!</string>
+    <string name="sacuvaj_dogadjaj">Sačuvaj događaj</string>
+    <string name="dogadjaj_postoji">Nije moguće napraviti događaj za ovaj dan. Događaj već postoji.</string>
+    <string name="vreme_do">Vreme do:</string>
+    <string name="trajanje">Vreme početka mora biti pre vremena kraja događaja!</string>
+</resources>
